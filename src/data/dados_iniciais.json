@@ -1,0 +1,233 @@
+{
+  "categorias": [
+    {
+      "titulo": "Horror",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": " #ff2b34",
+      "link_extra": {
+        "text": "Os melhores jogos da categoria",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Game of the Year?",
+          "url": "https://www.youtube.com/watch?v=xNzRdQShjNM"
+        },
+        {
+          "titulo": "Alan Wake",
+          "url": "https://www.youtube.com/watch?v=sSB4QcQMm6E"
+        },
+        {
+          "titulo": "The Medium",
+          "url": "https://www.youtube.com/watch?v=befzl0k9mT4"
+        },
+        {
+          "titulo": "Dead by Daylight",
+          "url": "https://www.youtube.com/watch?v=pTkotlTDAzk"
+        },
+        {
+          "titulo": "Silent Hills",
+          "url": "https://www.youtube.com/watch?v=Ay_RAkE7bUY"
+        },
+        {
+          "titulo": "The Evil Within",
+          "url": "https://www.youtube.com/watch?v=pPNYGpV0XW0"
+        },
+        {
+          "titulo": "Friday The 13th",
+          "url": "https://www.youtube.com/watch?v=74Sw3C8iJiU"
+        },
+        {
+          "titulo": "Outlast",
+          "url": "https://www.youtube.com/watch?v=hCgiwsIUI4g"
+        }
+      ]
+    },
+    {
+      "titulo": "Ação-aventura",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Os melhores jogos da categoria",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "The Last Of Us",
+          "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+        },
+        {
+          "titulo": "Red Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=iqaipBpnVRE"
+        },
+        {
+          "titulo": "Devil May Cry 5",
+          "url": "https://www.youtube.com/watch?v=g_2VZvi0fQ0"
+        },
+        {
+          "titulo": "Watch Dogs",
+          "url": "https://www.youtube.com/watch?v=DqoQG_XYF-8"
+        },
+        {
+          "titulo": "The Witcher",
+          "url": "https://www.youtube.com/watch?v=ehjJ614QfeM"
+        },
+        {
+          "titulo": "Assassin's Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=ssrNcwxALS4"
+        },
+        {
+          "titulo": "Marvel's Spider-man",
+          "url": "https://www.youtube.com/watch?v=8pR0o2fGyHg"
+        }
+      ]
+    },
+    {
+      "titulo": "FPS",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Os melhores jogos da categoria",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Far Cry 5",
+          "url": "https://www.youtube.com/watch?v=PiFm6Fo0oH8"
+        },
+        {
+          "titulo": "Far Cry 6",
+          "url": "https://www.youtube.com/watch?v=-IJuKT1mHO8"
+        },
+        {
+          "titulo": "Borderlands 2",
+          "url": "https://www.youtube.com/watch?v=kKVf5feSMEg"
+        },
+        {
+          "titulo": "Call of duty",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+        },
+        {
+          "titulo": "Battlerfield V",
+          "url": "https://www.youtube.com/watch?v=LCZLabOywYU"
+        },
+        {
+          "titulo": "Wolfenstein II",
+          "url": "https://www.youtube.com/watch?v=bkrwUzWeACg"
+        },
+        {
+          "titulo": "Left 4 Dead",
+          "url": "https://www.youtube.com/watch?v=Z5g3mrK82VA"
+        }
+      ]
+    },
+    {
+      "titulo": "Indie",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "to the moon",
+          "url": "https://www.youtube.com/watch?v=RGEovo2mdIc"
+        },
+        {
+          "titulo": "Child of Light",
+          "url": "https://www.youtube.com/watch?v=3Cq0ovbAcLQ"
+        },
+        {
+          "titulo": "Outer Wilds",
+          "url": "https://www.youtube.com/watch?v=d6LGnVCL1_A"
+        },
+        {
+          "titulo": "Heartbound",
+          "url": "https://www.youtube.com/watch?v=GbU5rpFPs_c"
+        },
+        {
+          "titulo": "Undertale",
+          "url": "https://www.youtube.com/watch?v=jy4aVnNoWY0"
+        },
+        {
+          "titulo": "Life is Strange",
+          "url": "https://www.youtube.com/watch?v=AURVxvIZrmU"
+        },
+        {
+          "titulo": "Coffe Talk",
+          "url": "https://www.youtube.com/watch?v=WA1lEU_zTCw"
+        }
+      ]
+    },
+    {
+      "titulo": "RPG",
+      "cor": "yellow",
+      "link_extra": {
+        "text": "Os melhores jogos da categoria",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Diablo 4",
+          "url": "https://www.youtube.com/watch?v=0SSYzl9fXOQ"
+        },
+        {
+          "titulo": "The Elder Scrolls",
+          "url": "https://www.youtube.com/watch?v=OkFdqqyI8y4"
+        },
+        {
+          "titulo": "Stardew Valley",
+          "url": "https://www.youtube.com/watch?v=SA7GNGcKPXs"
+        },
+        {
+          "titulo": "Terraria",
+          "url": "https://www.youtube.com/watch?v=H77Zfzy4LWw"
+        },
+        {
+          "titulo": "Fable",
+          "url": "https://www.youtube.com/watch?v=oVkSZXPklQ4"
+        },
+        {
+          "titulo": "Dark Souls",
+          "url": "https://www.youtube.com/watch?v=cWBwFhUv1-8"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Outros jogos para conferir",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "God of War",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Cyberpunk 2077",
+          "url": "https://www.youtube.com/watch?v=qIcTM8WXFjk"
+        },
+        {
+          "titulo": "GTA V",
+          "url": "https://www.youtube.com/watch?v=UWzV0AFXukI"
+        },
+        {
+          "titulo": "Detroit: Become Human",
+          "url": "https://www.youtube.com/watch?v=QD1pbWCJcKQ"
+        },
+        {
+          "titulo": "Days Gone",
+          "url": "https://www.youtube.com/watch?v=n95IaELdWDU"
+        },
+        {
+          "titulo": "Dayz",
+          "url": "https://www.youtube.com/watch?v=mC5F8ECQnFE"
+        },
+        {
+          "titulo": "Sekiro",
+          "url": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
+        }
+      ]
+    }
+  ]
+}
